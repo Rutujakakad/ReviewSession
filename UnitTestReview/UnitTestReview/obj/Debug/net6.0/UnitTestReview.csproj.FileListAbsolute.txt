@@ -1,0 +1,14 @@
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\UnitTestReview\UnitTestReview\UnitTestReview\bin\Debug\net6.0\UnitTestReview.exe
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\UnitTestReview\UnitTestReview\UnitTestReview\bin\Debug\net6.0\UnitTestReview.deps.json
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\UnitTestReview\UnitTestReview\UnitTestReview\bin\Debug\net6.0\UnitTestReview.runtimeconfig.json
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\UnitTestReview\UnitTestReview\UnitTestReview\bin\Debug\net6.0\UnitTestReview.dll
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\UnitTestReview\UnitTestReview\UnitTestReview\bin\Debug\net6.0\UnitTestReview.pdb
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\UnitTestReview\UnitTestReview\UnitTestReview\obj\Debug\net6.0\UnitTestReview.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\UnitTestReview\UnitTestReview\UnitTestReview\obj\Debug\net6.0\UnitTestReview.AssemblyInfoInputs.cache
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\UnitTestReview\UnitTestReview\UnitTestReview\obj\Debug\net6.0\UnitTestReview.AssemblyInfo.cs
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\UnitTestReview\UnitTestReview\UnitTestReview\obj\Debug\net6.0\UnitTestReview.csproj.CoreCompileInputs.cache
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\UnitTestReview\UnitTestReview\UnitTestReview\obj\Debug\net6.0\UnitTestReview.dll
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\UnitTestReview\UnitTestReview\UnitTestReview\obj\Debug\net6.0\refint\UnitTestReview.dll
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\UnitTestReview\UnitTestReview\UnitTestReview\obj\Debug\net6.0\UnitTestReview.pdb
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\UnitTestReview\UnitTestReview\UnitTestReview\obj\Debug\net6.0\UnitTestReview.genruntimeconfig.cache
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\UnitTestReview\UnitTestReview\UnitTestReview\obj\Debug\net6.0\ref\UnitTestReview.dll
